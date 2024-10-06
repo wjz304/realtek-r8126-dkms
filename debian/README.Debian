@@ -1,0 +1,5 @@
+realtek-r8126-dkms for Debian
+
+This installs a DKMS for Realtek r8126 drivers.
+
+ -- Ing <wjz304@qq.com>  2024/10/06 08:32:49 +0800
